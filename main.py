@@ -12,7 +12,6 @@ def menu():
     print("6. Encrypt")
     print("7. Decrypt")
     print("8. Exit")
-    choice = input("Enter your choice: ")
 
 
 print("Welcome to hashing-cli!")
